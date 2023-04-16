@@ -17,6 +17,8 @@ Grass | Wild vegetation outgrowing the infrastructures due to time | Population 
 
 Please be aware that errors may arise with the usage of objects not natives of Terragens library. 
 
+:error: C:\Users\...\postapocalyptic.tgd: Parse error at line 140: not well-formed (invalid token) 
+- User name may contain accents or inappropiate characters.
 
 Possible errors and methodology to correct them: 
 
