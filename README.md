@@ -43,7 +43,8 @@ a.In the road
             - Displacement: Material _25_Height.png
 
 ## Acknowledgements
- - [Car 3D model](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ - [Crown Vic 1987 Low Poly](https://skfb.ly/oEVqs) by abass20 is licensed under :copyright: [Creative Commons Attribution](http://creativecommons.org/licenses/by/4.0/).
+ - [Abandoned street lights pack](https://skfb.ly/oFDUU) by sergeilihandristov is licensed under :copyright: [Creative Commons Attribution](http://creativecommons.org/licenses/by/4.0/).
  
 ## Authors
 - [Lucía Ferrer ](100429154@alumnos.uc3m.es)
